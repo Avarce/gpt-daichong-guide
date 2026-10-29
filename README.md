@@ -1,6 +1,6 @@
 # GPT代充 / ChatGPT代充怎么选（2026）：Plus、Pro 微信支付直充本人账号，附安全说明与避坑清单
 
-> 最后更新：2026 年 10 月 24 日（北京时间）· 首次发布。价格、套餐和条款当天对照 OpenAI 官网核对。
+> 最后更新：2026 年 10 月 30 日（北京时间）· OpenAI 10 月 29 日把 Pro 的 Work / Codex 额度翻倍，倍数和套餐图随之更新。10 月 24 日首次发布，价格、套餐和条款当天对照 OpenAI 官网核对。
 > 信息过期了，欢迎提 Issue。想在价格或套餐变化时收到通知，点右上角 Watch → Custom → Releases。
 
 本指南由 **[AONIR](https://aonir.com/?utm_source=github&utm_medium=referral&utm_campaign=gpt_daichong_guide&utm_content=brand_home)** 维护。AONIR 是独立的第三方会员充值服务：微信支付，充值到你自己的 ChatGPT 账号。
@@ -9,9 +9,9 @@
 
 下面先给价格，再把大家搜代充时问得最多的几件事讲清楚：代充是什么原理、交出去的信息安不安全、会不会封号、怎么挑平台。
 
-![AONIR 的三档 ChatGPT 充值：Plus ¥168 / 月；Pro 100 ¥730 / 月，约为 Plus 的 5 倍用量；Pro 200 ¥1400 / 月，约为 Plus 的 10 倍用量；都是按月充值、不自动扣费、自助下单自动到账](./images/aonir-gpt-plans.webp)
+![AONIR 的三档 ChatGPT 充值：Plus ¥168 / 月；Pro 100 ¥730 / 月，约为 Plus 的 10 倍用量；Pro 200 ¥1400 / 月，约为 Plus 的 20 倍用量；两张 Pro 卡片标着「翻倍」；都是按月充值、不自动扣费、自助下单自动到账](./images/aonir-gpt-plans-20261030.webp)
 
-**[ChatGPT Plus ¥168 / 月 →](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=gpt_daichong_guide&utm_content=top_plus)** · **[Pro 100（约 5 倍 Plus 用量）¥730 / 月 →](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=gpt_daichong_guide&utm_content=top_pro100)** · **[Pro 200（约 10 倍 Plus 用量）¥1400 / 月 →](https://aonir.com/chatgpt-pro-10x/?utm_source=github&utm_medium=referral&utm_campaign=gpt_daichong_guide&utm_content=top_pro200)**
+**[ChatGPT Plus ¥168 / 月 →](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=gpt_daichong_guide&utm_content=top_plus)** · **[Pro 100（约 10 倍 Plus 用量）¥730 / 月 →](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=gpt_daichong_guide&utm_content=top_pro100)** · **[Pro 200（约 20 倍 Plus 用量）¥1400 / 月 →](https://aonir.com/chatgpt-pro-10x/?utm_source=github&utm_medium=referral&utm_campaign=gpt_daichong_guide&utm_content=top_pro200)**
 
 通常 1–5 分钟到账 · 微信支付 · 不要账号密码 · 30 天不掉订阅保障 · 订单进度随时可查。另有 [ChatGPT Go](https://aonir.com/chatgpt-go/?utm_source=github&utm_medium=referral&utm_campaign=gpt_daichong_guide&utm_content=top_go)（¥68 / 月），库存以页面为准。
 
@@ -118,14 +118,16 @@ AONIR 对照这张表：充到本人账号、不要密码、敏感信息的处�
 
 ## 六、Plus、Pro 100、Pro 200 怎么选
 
-OpenAI 官方价格（2026 年 10 月 24 日核对）：Plus $20 / 月，Pro 100 $100 / 月，Pro 200 $200 / 月，Pro 500 $500 / 月。官方只说 Pro 200 比 Pro 100 用量多、Pro 500 最多，没有写具体倍数，下面的倍数都是约数。
+OpenAI 官方价格（2026 年 10 月 24 日核对）：Plus $20 / 月，Pro 100 $100 / 月，Pro 200 $200 / 月，Pro 500 $500 / 月。官方页面只说 Pro 200 比 Pro 100 用量多、Pro 500 最多；下面的倍数是 Codex 负责人 Tibo 在 X 上的说法，都是约数。
 
-很多人搜的「gpt pro 5x」「gpt pro 20x」，现在官方叫 **Pro 100** 和 **Pro 200**。9 月底 OpenAI 调整后，新订阅的 Pro 200 用量比以前少，现在约为 Plus 的 10 倍。
+**美国时间 10 月 29 日起，Pro 的 Work / Codex 额度翻倍**：Pro 100、Pro 500 直接翻倍；Pro 200 原定下调老订阅额度的计划取消，较低的那档翻倍，所有 Pro 200 订阅额度相同。翻倍后三档约为 Plus 的 10、20、50 倍（50 倍是 Tibo [亲自确认](https://x.com/thsottiaux/status/2115851811576053881)的）。Chat 里 GPT-6 Pro 的每周额度，Pro 100 和 Pro 500 不变；Plus 不变。已经是 Pro 的账号自动生效。依据：[OpenAI 帮助中心](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)、[Tibo 原帖](https://x.com/thsottiaux/status/2115850175868727621)，详见 [Pro 额度翻倍说明](https://aonir.com/guides/chatgpt-pro-usage-doubled/?utm_source=github&utm_medium=referral&utm_campaign=gpt_daichong_guide&utm_content=guide_pro_doubled)。
+
+很多人搜的「gpt pro 5x」「gpt pro 20x」，现在官方叫 **Pro 100** 和 **Pro 200**。10 月 29 日翻倍之后，Pro 100 约为 Plus 的 10 倍，Pro 200 约为 20 倍，又和原来「20x」的叫法对上了。
 
 - **先选 Plus**：日常写作、学习、编程基本够用。[Plus ¥168 →](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=gpt_daichong_guide&utm_content=choose_plus)
-- **Work / Codex 经常因为用量耗尽中断**，换 Pro 100，用量约为 Plus 的 5 倍。[Pro 100 ¥730 →](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=gpt_daichong_guide&utm_content=choose_pro100)
-- **Pro 100 也常用完**，换 Pro 200，用量约为 Plus 的 10 倍。[Pro 200 ¥1400 →](https://aonir.com/chatgpt-pro-10x/?utm_source=github&utm_medium=referral&utm_campaign=gpt_daichong_guide&utm_content=choose_pro200)
-- **Pro 500** 由客服开通，见 [Pro 500 页面](https://aonir.com/chatgpt-pro-500/?utm_source=github&utm_medium=referral&utm_campaign=gpt_daichong_guide&utm_content=choose_pro500)。
+- **Work / Codex 经常因为用量耗尽中断**，换 Pro 100，Work / Codex 用量约为 Plus 的 10 倍。[Pro 100 ¥730 →](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=gpt_daichong_guide&utm_content=choose_pro100)
+- **Pro 100 也常用完**，换 Pro 200，约为 Plus 的 20 倍。[Pro 200 ¥1400 →](https://aonir.com/chatgpt-pro-10x/?utm_source=github&utm_medium=referral&utm_campaign=gpt_daichong_guide&utm_content=choose_pro200)
+- **Pro 500**（约为 Plus 的 50 倍，另有 Ultrafast）由客服开通，见 [Pro 500 页面](https://aonir.com/chatgpt-pro-500/?utm_source=github&utm_medium=referral&utm_campaign=gpt_daichong_guide&utm_content=choose_pro500)。
 
 各档能用哪些模型、额度怎么算，见 [ChatGPT Free、Plus 与 Pro 怎么选](https://aonir.com/guides/chatgpt-free-plus-pro/?utm_source=github&utm_medium=referral&utm_campaign=gpt_daichong_guide&utm_content=guide_plans)。
 
